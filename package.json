@@ -1,0 +1,11 @@
+{
+  "name": "caporal",
+  "version": "1.0.0",
+  "description": "Demo Caporal",
+  "main": "index.js",
+  "author": "Thanh Dat",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.3.0"
+  }
+}
