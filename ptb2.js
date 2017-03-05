@@ -4,7 +4,7 @@
 
 let log = console.log;
 
-var Ptb2 = function(a, b, c) {
+let Ptb2 = (a, b, c) => {
     let delta, x1, x2;
 
     if (isNaN(a)) {
